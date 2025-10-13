@@ -1,0 +1,30 @@
+{
+  "recipe_name": "Curry Rouge",
+  "total_time_minutes": 60,
+  "origin_area": "Southeast Asia",
+  "author": "Alicia Keys",
+  
+  "ingredients": [
+    {
+      "name": "Red Curry Paste",
+      "quantity": 30,
+      "unit": "grams",
+      "note": "Take the red curry paste from Shianshi"
+    },
+    {
+      "name": "Potatoes",
+      "quantity": 1200,
+      "unit": "grams"
+    }
+  ],
+  
+  "instructions": [
+    "Heat oil in a large pot.",
+    "Add curry paste and fry for 1-2 minutes.",
+    "Add potatoes and stir well.",
+    "Add coconut milk and simmer for 30 minutes.",
+    "Serve hot with rice."
+  ],
+  
+  "notes": "Trop bon mais épicé — à faire attention avec les plus fragiles!"
+}
