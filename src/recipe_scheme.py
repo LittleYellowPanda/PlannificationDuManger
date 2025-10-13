@@ -36,7 +36,6 @@ class BasicRecipe(BaseModel):
     notes: Optional[str]
 
 
-
 # Define a function to handle user input validation safely
 def validate_recipe_input(input_data):
     try:
